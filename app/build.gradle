@@ -4,6 +4,7 @@ plugins {
 }
 
 android {
+    namespace 'com.itsession.finplanner'
     compileSdk 32
 
     defaultConfig {
